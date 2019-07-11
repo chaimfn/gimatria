@@ -1,6 +1,6 @@
 {
-  "name": "gimatria",
-  "version": "1.0.0",
+  "name": "@chaimfn/gimatria",
+  "version": "1.0.1",
   "description": "Convert an Hebrew text to number, convert a number to Hebrew text",
   "main": "index.js",
   "scripts": {},

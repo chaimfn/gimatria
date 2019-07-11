@@ -9,15 +9,15 @@ Converting a number to an Hebrew text.
 
 * Include this script: 
 ```
-require("gimatria")
+require("@chaimfn/gimatria")
 ```
 or
 ```
-import "gimatria"
+import "@chaimfn/gimatria"
 ```
 or
 ```
-<script src="gimatria"></script>
+<script src="@chaimfn/gimatria"></script>
 ```
 * Use:
 
