@@ -1,0 +1,22 @@
+{
+  "name": "gimatria",
+  "version": "1.0.0",
+  "description": "Convert an Hebrew text to number, convert a number to Hebrew text",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaimfn/gimatria.git"
+  },
+  "keywords": [
+    "gimatria",
+    "jewish numbering",
+    "גימטריה"
+  ],
+  "author": "chaim.fn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaimfn/gimatria/issues"
+  },
+  "homepage": "https://github.com/chaimfn/gimatria#readme"
+}
